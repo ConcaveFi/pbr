@@ -10,6 +10,7 @@ log
 
 # production
 node_modules
+dist
 vendor/
 .next
 /build
